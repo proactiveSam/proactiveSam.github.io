@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "First Test!"
+title:  "First blog!"
 date:   2017-03-15 19:20:15 +0800
 categories: jekyll update
 ---
-“All phenomena are like a dream, an illusion, a bubble and a shadow, Like dew and lightning. Thus should you meditate upon them.” 
+"All phenomena are like a dream, an illusion, a bubble and a shadow, Like dew and lightning. Thus should you meditate upon them."
 
 一切有为法　如梦幻泡影 如露亦如电　应作如是观
 
